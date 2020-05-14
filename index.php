@@ -1,5 +1,6 @@
 <?php
 
-print "Hello world";
-print "Working fine";
+print "Hello world\n";
+print "Working fine\n";
+print "all Good\n";
 ?>
